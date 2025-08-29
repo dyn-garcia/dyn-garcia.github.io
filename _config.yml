@@ -59,26 +59,29 @@ plugins:
 author:
   name   : "Dynver Garcia"
   avatar : "/assets/images/pic.jpg"
-  bio    : "Data Engineer | Azure | PySpark | SQL | Python | ADF | Databricks"
+  bio    : "Data Engineer"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/dynvergarcia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dyn-garcia"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/grcxadyn/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/dynvergarcia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/dyn-garcia"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/grcxadyn/"
 
 defaults:
   # _posts
