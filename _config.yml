@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Dynver Garcia"
-  avatar : "/assets/images/pic.jpg"
+  avatar : "/assets/images/profilepic.jpg"
   bio    : "Data Engineer"
   links:
     - label: "LinkedIn"
